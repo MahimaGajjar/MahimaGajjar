@@ -1,5 +1,5 @@
 ### Hi there 👋 Mahima Here
-
+A passionate software engineer from India.
 <!--
 **MahimaGajjar/MahimaGajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
